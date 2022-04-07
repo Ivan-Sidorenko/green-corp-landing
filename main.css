@@ -5,7 +5,7 @@ body {
 }
 
 /* default conditions start */
-button:hover {
+button:hover, .promo__button-wrap button:hover {
 	background-color: #f6980c;
 	box-shadow: 0 16px 36px rgba(246 152 12 / 20%);
 	transition: background-color, color 0.3s ease-in;
